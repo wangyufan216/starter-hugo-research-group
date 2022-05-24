@@ -1,9 +1,9 @@
 ---
-title: Our new paper is publised on Molecular Psychiatry!
-date: 2022-03-09
+title: Our new paper is publised in eLife!
+date: 2021-07-06
 ---
 
-Congrats Yaping and Lin Chai! Pleased to announce that our paper titled "Uncovering the genetic profiles underlying the intrinsic organization of the human cerebellum" was published on Molecular Psychiatry.
+CCongrats Luqi Chen! Happy to see the work out on @eLife. The gradient of connectional asymmetries of the inferior parietal lobule in humans, chimpanzees and macaques supports the neural pathway evolution that might be relevant to the evolution of language and tool use in humans.
 
 <!--more-->
 

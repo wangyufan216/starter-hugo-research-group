@@ -1,9 +1,9 @@
 ---
-title: Our new paper is publised on Molecular Psychiatry!
-date: 2022-03-09
+title: Our new paper is publised on Neuroscience Bulletin!
+date: 2020-10-27
 ---
 
-Congrats Yaping and Lin Chai! Pleased to announce that our paper titled "Uncovering the genetic profiles underlying the intrinsic organization of the human cerebellum" was published on Molecular Psychiatry.
+Congratulations Bin He published his work on Neuroscience Bulletin titled “Fine-Grained Topography and Modularity of the Macaque Frontal Pole Cortex Revealed by Anatomical Connectivity Profiles?”
 
 <!--more-->
 

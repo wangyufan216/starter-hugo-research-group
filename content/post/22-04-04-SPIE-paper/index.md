@@ -1,9 +1,9 @@
 ---
-title: Our new paper is publised on Molecular Psychiatry!
-date: 2022-03-09
+title: New work about schizophrenia is online!
+date: 2022-04-04
 ---
 
-Congrats Yaping and Lin Chai! Pleased to announce that our paper titled "Uncovering the genetic profiles underlying the intrinsic organization of the human cerebellum" was published on Molecular Psychiatry.
+Congrats Lin Chai's work was online in SPIE Medical Image 2022 : "Linked psychopathology-specific factors and individual structural brain abnormalities in schizophrenia".
 
 <!--more-->
 

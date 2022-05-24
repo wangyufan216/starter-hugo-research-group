@@ -1,9 +1,9 @@
 ---
-title: Our new paper is publised on Molecular Psychiatry!
-date: 2022-03-09
+title: Our new work on ICONIP 2020!
+date: 2020-11-19
 ---
 
-Congrats Yaping and Lin Chai! Pleased to announce that our paper titled "Uncovering the genetic profiles underlying the intrinsic organization of the human cerebellum" was published on Molecular Psychiatry.
+Congratulations Zheng Zhang for publishing his work on ICONIP 2020. 'Inter and Intra Individual Variations of Cortical Functional Boundaries Depending on Brain States'. 
 
 <!--more-->
 

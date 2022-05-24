@@ -1,9 +1,9 @@
 ---
-title: Our new paper is publised on Molecular Psychiatry!
-date: 2022-03-09
+title: Cheng chen received OHBM 2021 merit award!
+date: 2021-03-01
 ---
 
-Congrats Yaping and Lin Chai! Pleased to announce that our paper titled "Uncovering the genetic profiles underlying the intrinsic organization of the human cerebellum" was published on Molecular Psychiatry.
+Congratulations Cheng Chen for receiving an OHBM 2021 merit award for his abstract 'Network Occlusion Sensitivity reveals Brain Regions related to Aging'.
 
 <!--more-->
 
