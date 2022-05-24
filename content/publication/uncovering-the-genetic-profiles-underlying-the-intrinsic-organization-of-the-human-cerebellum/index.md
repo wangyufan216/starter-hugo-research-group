@@ -15,7 +15,7 @@ authors:
   - Nyengaard J.R.
   - Liu B.
   - Jiang T.
-  - Fan L
+  - Fan L.
 draft: false
 featured: false
 image:
