@@ -3,9 +3,9 @@ title: Uncovering the Genetic Profiles Underlying the Intrinsic Organization of 
 publication_types:
   - "2"
 authors:
-  - Wang Y*.
-  - Chai L*.
-  - Chu C#.
+  - Wang Y.
+  - Chai L.
+  - Chu C.
   - Li D.
   - Gao C.
   - Yang Z.
@@ -15,7 +15,7 @@ authors:
   - Nyengaard J.R.
   - Liu B.
   - Jiang T.
-  - Fan L#
+  - Fan L
 draft: false
 featured: false
 image:
