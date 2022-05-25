@@ -3,9 +3,15 @@ title: 'Anterior–Posterior Hippocampal Dynamics Support Working Memory Process
 authors:
   - Jin Li
   - Dan Cao
+  - Vasileios Dimakopoulos
+  - Weiyang Shi
+  - Shan Yu
   - admin
+  - Lennart Stieglitz
+  - Lukas Imbach
+  - Johannes Sarnthein
   - Tianzi Jiang
-date: '2022-01-01T00:00:00Z'
+date: '2022-01-19T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -21,19 +27,19 @@ publication_types: ['2']
 publication: '*Journal of Neuroscience*'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The hippocampus is a locus of working memory (WM) with anterior and posterior subregions that differ in their transcriptional and external connectivity patterns. However, the involvement and functional connections between these subregions in WM processing are poorly understood. To address these issues, we recorded intracranial EEG from the anterior and the posterior hippocampi in humans (seven females and seven males) who maintained a set of letters in their WM. We found that WM maintenance was accompanied by elevated low-frequency activity in both the anterior and posterior hippocampus and by increased theta/alpha band (3–12 Hz) phase synchronization between anterior and posterior subregions. Cross-frequency and Granger prediction analyses consistently showed that the correct WM trials were associated with theta/alpha band-coordinated unidirectional influence from the posterior to the anterior hippocampus. In contrast, WM errors were associated with bidirectional interactions between the anterior and posterior hippocampus. These findings imply that theta/alpha band synchrony within the hippocampus may support successful WM via a posterior to anterior influence. A combination of intracranial recording and a fine-grained atlas may be of value in understanding the neural mechanisms of WM processing.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-  - Source Themes
+# tags:
+#   - Source Themes
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.jneurosci.org/content/42/3/443
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -63,9 +69,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
