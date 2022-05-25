@@ -1,5 +1,5 @@
 ---
-title: Our new paper is publised in The Innovation
+title: Our new paper is publised in *The Innovation*!
 date: 2021-02-01
 ---
 

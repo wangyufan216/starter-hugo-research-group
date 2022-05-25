@@ -1,5 +1,5 @@
 ---
-title: Gang Li successfully defending his degree!
+title: Gang Li successfully defended his degree!
 date: 2022-06-21
 ---
 

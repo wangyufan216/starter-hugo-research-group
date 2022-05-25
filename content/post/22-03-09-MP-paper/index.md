@@ -1,5 +1,5 @@
 ---
-title: Our new paper is publised on Molecular Psychiatry!
+title: Our new paper is publised on *Molecular Psychiatry*!
 date: 2022-03-09
 ---
 

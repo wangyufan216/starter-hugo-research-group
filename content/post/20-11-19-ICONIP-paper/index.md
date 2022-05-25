@@ -1,5 +1,5 @@
 ---
-title: Our new work on ICONIP 2020!
+title: Our new work on *ICONIP* 2020!
 date: 2020-11-19
 ---
 

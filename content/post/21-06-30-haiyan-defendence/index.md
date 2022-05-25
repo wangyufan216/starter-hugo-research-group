@@ -1,5 +1,5 @@
 ---
-title: Haiyan Wang successfully defending her Ph.D. degree!
+title: Haiyan Wang successfully defended her Ph.D. degree!
 date: 2021-06-30
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Our new paper is publised on Neuroscience Bulletin!
+title: Our new paper is publised on *Neuroscience Bulletin*!
 date: 2020-10-27
 ---
 
