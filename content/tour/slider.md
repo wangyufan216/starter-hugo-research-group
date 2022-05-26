@@ -23,7 +23,7 @@ content:
         color: '#666'
         brightness: 0.7
         media: brainicon.jpg
-    - title: Explore human brain atlas
+    - title: Mapping human brain atlas
       content: 'Share your knowledge with the group and explore exciting new topics together!'
       align: left
       background:
@@ -32,13 +32,13 @@ content:
         brightness: 0.7
         media: atlases.jpg
     - title: World-Class Neuroscience Lab
-      content: 'Just opened last month!'
+      content: 'Explore brain together!'
       align: right
       background:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: teams.jpg
       link:
         icon: graduation-cap
         icon_pack: fas

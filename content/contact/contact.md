@@ -15,23 +15,23 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: lingzhong.fan@ia.ac.cn
+  phone: +86 10 8254 4523
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 95 Zhongguancun East Road
+    city: Haidian
+    region: Beijing
+    postcode: '100190'
+    country: China
+    country_code: CN
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    latitude: '39.9846'
+    longitude: '116.3389'
+  directions: 5th floor, Intelligence Building
+  # office_hours:
+  #   - 'Monday 10:00 to 13:00'
+  #   - 'Wednesday 09:00 to 10:00'
+  # appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
   #    icon_pack: fas
@@ -54,4 +54,10 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+Ph.D. positions from my group @UCAS @Brainnetome Center, CASIA
+
+The applicant should have good skills in computer programming, especially in Python, Matlab, or similar. The applicant should have a master’s degree in biomedical engineering, computer science, mechanical engineering, or similar. Good communication skills in verbal and written English are required, as is the capacity to collaborate and work independently in collaborative projects.
+
+Call for 2021 Doctoral Programs for International Students
+
+Call for 2021 Chinese Government Scholarship for International Students to Study at UCAS

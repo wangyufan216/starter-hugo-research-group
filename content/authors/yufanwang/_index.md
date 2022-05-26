@@ -15,15 +15,14 @@ role: PhD Candidate
 # Organizations/Affiliations
 organizations:
   - name: Institute of Automation, Chinese Academy of Science
-    url: ''
+    url: 'http://www.ia.cas.cn/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+  - Evolution
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
 
 education:
   courses:
@@ -44,10 +43,10 @@ social:
     link: 'mailto:wangyufan2021@ia.ac.cn'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link:
   - icon: github
     icon_pack: fab
     link: https://github.com/wangyufan216
@@ -66,6 +65,4 @@ user_groups:
   - Graduate Students
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am  a first-year doctoral student at Brainnetome Center, CASIA, supervised by Lingzhong Fan. My research interest include exploring brain structure and function of non-human primates and clarifying the similarities and diffferences.
