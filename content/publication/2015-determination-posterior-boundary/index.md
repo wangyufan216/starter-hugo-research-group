@@ -1,5 +1,5 @@
 ---
-title: 'Determination of the posterior boundary of Wernicke's area based on multimodal connectivity profiles'
+title: 'Determination of the posterior boundary of Wernicke area based on multimodal connectivity profiles'
 authors:
   - Jiaojian Wang
   - admin
