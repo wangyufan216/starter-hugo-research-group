@@ -4,7 +4,7 @@ title: Yaping Wang
 
 # Username (this should match the folder name)
 authors:
-  - yapingwang
+  - 1yapingwang
 
 # Is this the primary user of the site?
 superuser: false
