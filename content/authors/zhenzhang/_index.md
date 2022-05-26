@@ -6,6 +6,8 @@ title: Zhen Zhang
 authors:
   - zhenzhang
 
+weight：30
+
 # Is this the primary user of the site?
 superuser: false
 

@@ -6,6 +6,8 @@ title: Cheng Chen
 authors:
   - chengchen
 
+weight：40
+
 # Is this the primary user of the site?
 superuser: false
 

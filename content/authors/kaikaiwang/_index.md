@@ -6,6 +6,8 @@ title: Kaikai Wang
 authors:
   - kaikaiwang
 
+weight：35
+
 # Is this the primary user of the site?
 superuser: false
 

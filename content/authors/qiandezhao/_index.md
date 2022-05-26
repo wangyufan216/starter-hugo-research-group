@@ -6,6 +6,8 @@ title: Qiande Zhao
 authors:
   - qiandezhao
 
+weight：60
+
 # Is this the primary user of the site?
 superuser: false
 
