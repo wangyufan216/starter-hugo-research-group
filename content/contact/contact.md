@@ -25,8 +25,8 @@ content:
     country: China
     country_code: CN
   coordinates:
-    latitude: '39.98466'
-    longitude: '116.33898'
+    latitude: '39.89073'
+    longitude: '116.33249'
   directions: 5th floor, Intelligence Building
   # office_hours:
   #   - 'Monday 10:00 to 13:00'
