@@ -25,6 +25,7 @@ organizations:
 interests:
   - Evolution
   - Artificial Intelligence
+  - Fish Touching
 
 education:
   courses:
@@ -67,4 +68,4 @@ user_groups:
   - Graduate Students
 ---
 
-I am  a first-year doctoral student at Brainnetome Center, CASIA, supervised by Lingzhong Fan. My research interest include exploring brain structure and function of non-human primates and clarifying the similarities and diffferences.
+I am  a first-year doctoral student at Brainnetome Center, CASIA, supervised by Lingzhong Fan. My research interest include exploring brain structure and function of non-human primates and clarifying the similarities and diffferences between them and humans.
