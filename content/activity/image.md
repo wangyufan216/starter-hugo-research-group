@@ -26,36 +26,12 @@ design:
 # {{< figure src="pic5.jpg" numbered="true" >}}
 # {{< figure src="pic6.jpg" numbered="true" >}}
 
-# ![jpg](./pic1.jpg)
-# ![jpg](./pic2.jpg)
-# ![jpg](./pic3.jpg)
-# ![jpg](./pic4.jpg)
-# ![jpg](./pic5.jpg)
-# ![jpg](./pic6.jpg)
+
 ---
 
-<div align="center">
-<p>
-<img src=https://github.com/wangyufan216/starter-hugo-research-group/blob/main/content/activity/pic1.jpg />
-</p>
-
-<p>
-<img src=https://github.com/wangyufan216/starter-hugo-research-group/blob/main/content/activity/pic2.jpg />
-</p>
-
-<p>
-<img src=https://github.com/wangyufan216/starter-hugo-research-group/blob/main/content/activity/pic3.jpg />
-</p>
-
-<p>
-<img src=https://github.com/wangyufan216/starter-hugo-research-group/blob/main/content/activity/pic4.jpg />
-</p>
-
-<p>
-<img src=https://github.com/wangyufan216/starter-hugo-research-group/blob/main/content/activity/pic5.jpg />
-</p>
-
-<p>
-<img src=https://github.com/wangyufan216/starter-hugo-research-group/blob/main/content/activity/pic6.jpg />
-</p>
-</div>
+<center>![jpg](./pic1.jpg)</center>
+<center>![jpg](./pic2.jpg)</center>
+<center>![jpg](./pic3.jpg)</center>
+<center>![jpg](./pic4.jpg)</center>
+<center>![jpg](./pic5.jpg)</center>
+<center>![jpg](./pic6.jpg)</center>
