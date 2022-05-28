@@ -35,7 +35,7 @@ abstract: The frontal pole cortex (FPC) plays key roles in various higher-order 
 #   - Source Themes
 featured: false
 
-# links:
+links:
 - name: "DOI"
   url: "https://link.springer.com/article/10.1007/s12264-020-00589-1"
 url_pdf: ''
