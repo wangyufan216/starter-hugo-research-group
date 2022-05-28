@@ -23,16 +23,16 @@ organizations:
 bio: 
 
 interests:
-  - xxx
-  - xxx
-  - xxx
+  - Yumao Ball
+  - 戦い
+  - Swimming
 
 education:
   courses:
     - course: PhD in Pattern Recognition and Intelligent System
       institution: Institute of Automation, Chinese Academy of Science
       year: 2020-
-    - course: BSc in xxx
+    - course: BSc in Electronic and Information Engineering
       institution: Beijing Institute of Technology
       year: 2016-2020
 
@@ -52,7 +52,7 @@ social:
     link: 
   - icon: github
     icon_pack: fab
-    link: 
+    link: https://github.com/deyingli
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,3 +67,5 @@ email: ''
 user_groups:
   - Graduate Students
 ---
+
+I am a second-year doctoral student at Brainnetome Center, CASIA, supervised by Lingzhong Fan. My research interest include exploring brain structure and function of human and clarifying the similarities and diffferences between them and non-human promates.
