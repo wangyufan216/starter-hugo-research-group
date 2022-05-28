@@ -6,7 +6,7 @@ title: Yaping Wang
 authors:
   - yapingwang
 
-weight：20
+# weight：20
 
 # Is this the primary user of the site?
 superuser: false

@@ -6,7 +6,7 @@ title: Lingfei He
 authors:
   - lingfeihe
 
-weight：90
+# weight：90
 
 # Is this the primary user of the site?
 superuser: false
