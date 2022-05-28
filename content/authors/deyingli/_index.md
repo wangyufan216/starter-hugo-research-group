@@ -24,7 +24,7 @@ bio:
 
 interests:
   - Yumao Ball
-  - 戦い
+  - cartoon
   - Swimming
 
 education:
