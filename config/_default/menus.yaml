@@ -16,8 +16,8 @@ main:
   - name: People
     url: people
     weight: 30
-  - name: Photos
-    url: event
+  - name: Activities
+    url: activity
     weight: 40
   - name: Publications
     url: publication
