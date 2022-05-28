@@ -19,14 +19,24 @@ design:
 # It should be located under the --- if not annotated
 ---
 
-<div class="row">
-<img src=https://img.shields.io/github/stars/wowchemy/wowchemy-hugo-modules.svg alt="Github stars" title="Github stars"/>
-<img src=https://img.shields.io/github/languages/top/wowchemy/wowchemy-hugo-modules.svg alt="Language" title="Language"/>
-<img src=https://img.shields.io/github/v/tag/wowchemy/wowchemy-hugo-modules.svg?sort=semver alt="Last Tag" title="Last Tag"/>
-<img src=https://img.shields.io/github/last-commit/wowchemy/wowchemy-hugo-modules.svg alt="Last Commit" title="Last Commit"/>
-</div>
+{{< figure src="pic1.jpg" numbered="true" >}}
 
-<div class="row">
-<img src=https://img.shields.io/github/stars/wowchemy/wowchemy-hugo-modules.svg alt="Github stars" title="Github stars"/>
-<img src=https://img.shields.io/github/languages/top/wowchemy/wowchemy-hugo-modules.svg alt="Language" title="Language"/>
-</div>
+
+
+{{< figure src="pic2.jpg" numbered="true" >}}
+
+
+
+{{< figure src="pic3.jpg" numbered="true" >}}
+
+
+
+{{< figure src="pic4.jpg" numbered="true" >}}
+
+
+
+{{< figure src="pic5.jpg" numbered="true" >}}
+
+
+
+{{< figure src="pic6.jpg" numbered="true" >}}
