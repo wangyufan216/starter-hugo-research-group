@@ -16,4 +16,4 @@ design:
   columns: '1'
 ---
 
-{{< gallery album="<activity>" >}}
+{{< gallery album="activity" >}}
