@@ -26,12 +26,17 @@ design:
 # {{< figure src="pic5.jpg" numbered="true" >}}
 # {{< figure src="pic6.jpg" numbered="true" >}}
 
-
+# <center>![jpg](./pic1.jpg)</center>
+# <center>![jpg](./pic2.jpg)</center>
+# <center>![jpg](./pic3.jpg)</center>
+# <center>![jpg](./pic4.jpg)</center>
+# <center>![jpg](./pic5.jpg)</center>
+# <center>![jpg](./pic6.jpg)</center>
 ---
 
-<center>![jpg](./pic1.jpg)</center>
-<center>![jpg](./pic2.jpg)</center>
-<center>![jpg](./pic3.jpg)</center>
-<center>![jpg](./pic4.jpg)</center>
-<center>![jpg](./pic5.jpg)</center>
-<center>![jpg](./pic6.jpg)</center>
+<center>{{< figure src="pic1.jpg" numbered="true" >}}</center>
+<center>{{< figure src="pic2.jpg" numbered="true" >}}</center>
+<center>{{< figure src="pic3.jpg" numbered="true" >}}</center>
+<center>{{< figure src="pic4.jpg" numbered="true" >}}</center>
+<center>{{< figure src="pic5.jpg" numbered="true" >}}</center>
+<center>{{< figure src="pic6.jpg" numbered="true" >}}</center>
