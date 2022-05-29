@@ -9,6 +9,9 @@ authors:
   - Haifang Li
   - Junjie Chen
   - Tianzi Jiang
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2018-10-01T00:00:00Z'
 doi: ''
 
