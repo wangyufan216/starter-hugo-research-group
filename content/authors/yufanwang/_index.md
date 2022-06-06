@@ -23,8 +23,8 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Evolution
-  - Artificial Intelligence
+  - Lying Flat
+  - Water Skiing
   - Fish Touching
 
 education:

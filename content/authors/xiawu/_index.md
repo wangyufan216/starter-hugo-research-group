@@ -23,17 +23,17 @@ organizations:
 bio: 
 
 interests:
-  - xxx
-  - xxx
-  - xxx
+  - DTI
+  - brain injury
+  - tragtography
 
 education:
   courses:
     - course: PhD in Pattern Recognition and Intelligent System
       institution: Institute of Automation, Chinese Academy of Science
       year: 2020-
-    - course: BSc in xxx
-      institution: xxx
+    - course: BSc in Intelligence Science and Technoloy
+      institution: University of Science and Technology Beijing
       year: 2016-2020
 
 # Social/Academic Networking
@@ -52,7 +52,7 @@ social:
     link: 
   - icon: github
     icon_pack: fab
-    link: 
+    link: https://github.com/MonsterSmile
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,3 +67,5 @@ email: ''
 user_groups:
   - Graduate Students
 ---
+
+I am a direct PhD student from the Brain Network Group of the Institute of Automation, Chinese Academy of Sciences, and my supervisor is Fan Lingzhong. My main research direction is to explore the damage patterns of the human brain based on diffusion magnetic resonance imaging, and to diagnose and predict different diseases caused by damage.
