@@ -34,9 +34,9 @@ abstract: Numerous studies have demonstrated substantial inter-individual sympto
 featured: true
 
 links:
-#   - name: Custom Link
-#     url: http://example.org
-url_pdf: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12033/2612266/Linked-psychopathology-specific-factors-and-individual-structural-brain-abnormalities-in/10.1117/12.2612266.short?SSO=1
+  - name: "DOI"
+    url: "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12033/2612266/Linked-psychopathology-specific-factors-and-individual-structural-brain-abnormalities-in/10.1117/12.2612266.short?SSO=1"
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -42,10 +42,10 @@ abstract: Various brain structural and functional features such as cytoarchitect
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 'https://academic.oup.com/cercor/article/26/9/3732/2389100'
+links:
+- name: "DOI"
+  url: "https://academic.oup.com/cercor/article/26/9/3732/2389100"
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

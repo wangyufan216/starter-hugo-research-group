@@ -35,10 +35,10 @@ abstract: The temporal pole (TP) is an association cortex capable of multisensor
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://academic.oup.com/cercor/article/24/12/3365/280069
+links:
+- name: "DOI"
+  url: "https://academic.oup.com/cercor/article/24/12/3365/280069"
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

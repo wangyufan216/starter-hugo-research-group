@@ -44,10 +44,10 @@ abstract: The functional diversity of the human cerebellum is largely believed t
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://www.nature.com/articles/s41380-022-01489-8
+links:
+- name: "DOI"
+  url: "https://www.nature.com/articles/s41380-022-01489-8"
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

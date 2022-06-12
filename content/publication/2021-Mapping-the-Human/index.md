@@ -27,10 +27,10 @@ abstract: No abstract available.
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://www.the-innovation.org/issue/20210228/S2666-6758(20)30076-X/
+links:
+- name: "DOI"
+  url: "http://www.the-innovation.org/issue/20210228/S2666-6758(20)30076-X/"
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

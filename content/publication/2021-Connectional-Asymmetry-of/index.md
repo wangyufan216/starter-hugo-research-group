@@ -33,10 +33,10 @@ abstract: The inferior parietal lobule (IPL) is one of the most expanded cortica
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://elifesciences.org/articles/67600
+links:
+- name: "DOI"
+  url: "https://elifesciences.org/articles/67600"
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

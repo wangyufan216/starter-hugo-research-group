@@ -36,10 +36,10 @@ abstract: The hippocampus is a locus of working memory (WM) with anterior and po
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://www.jneurosci.org/content/42/3/443
+links:
+- name: "DOI"
+  url: "https://www.jneurosci.org/content/42/3/443"
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

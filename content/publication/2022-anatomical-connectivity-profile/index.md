@@ -66,9 +66,9 @@ abstract: The prefrontal cortex (PFC) is a highly variable, evolutionarily expan
 featured: false
 
 links:
-#   - name: Custom Link
-#     url: http://example.org
-url_pdf: https://www.biorxiv.org/content/10.1101/2022.02.07.479322v1
+  - name: "DOI"
+    url: "https://www.biorxiv.org/content/10.1101/2022.02.07.479322v1"
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

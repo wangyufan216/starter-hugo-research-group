@@ -39,10 +39,10 @@ abstract: The frontostriatal system plays a critical role in emotional and cogni
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0306452215003450'
+links:
+- name: "DOI"
+  url: "https://www.sciencedirect.com/science/article/pii/S0306452215003450"
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

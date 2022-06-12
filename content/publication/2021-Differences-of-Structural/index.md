@@ -37,10 +37,10 @@ abstract: To explore the differences in plasticity mechanism of cortical structu
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://www.cjrtponline.com/EN/10.3969/j.issn.1006-9771.2021.04.008
+links:
+- name: "DOI"
+  url: "http://www.cjrtponline.com/EN/10.3969/j.issn.1006-9771.2021.04.008"
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

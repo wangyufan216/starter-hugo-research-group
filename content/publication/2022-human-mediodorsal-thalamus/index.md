@@ -43,10 +43,10 @@ abstract: The human mediodorsal thalamic nucleus (MD) is crucial for higher cogn
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S1053811922000064
+links:
+- name: "DOI"
+  url: "https://www.sciencedirect.com/science/article/pii/S1053811922000064"
+url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''

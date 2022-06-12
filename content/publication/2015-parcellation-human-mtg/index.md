@@ -35,10 +35,10 @@ abstract: The middle temporal gyrus (MTG) participates in a variety of functions
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 'https://www.nature.com/articles/srep18883'
+links:
+- name: "DOI"
+  url: "https://www.nature.com/articles/srep18883"
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

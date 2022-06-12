@@ -36,10 +36,10 @@ abstract: White matter (WM) asymmetries of the human brain have been well docume
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://onlinelibrary.wiley.com/doi/10.1002/hbm.21477
+links:
+- name: "DOI"
+  url: "https://onlinelibrary.wiley.com/doi/10.1002/hbm.21477"
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

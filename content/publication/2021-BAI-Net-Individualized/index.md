@@ -38,10 +38,10 @@ abstract: Individualized human cerebral cartography has drawn considerable atten
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://www.biorxiv.org/content/10.1101/2021.07.15.452577v4.full
+links:
+- name: "DOI"
+  url: "https://www.biorxiv.org/content/10.1101/2021.07.15.452577v4.full"
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -42,10 +42,10 @@ abstract: School-age children are in a specific development stage corresponding 
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://link.springer.com/article/10.1007/s12264-022-00820-1
+links:
+- name: "DOI"
+  url: "https://link.springer.com/article/10.1007/s12264-022-00820-1"
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

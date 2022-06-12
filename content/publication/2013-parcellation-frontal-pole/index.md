@@ -33,10 +33,10 @@ abstract: The human frontal pole (FP) approximately corresponds to Brodmann’s 
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://www.jneurosci.org/content/33/16/6782.long
+links:
+- name: "DOI"
+  url: "https://www.jneurosci.org/content/33/16/6782.long"
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

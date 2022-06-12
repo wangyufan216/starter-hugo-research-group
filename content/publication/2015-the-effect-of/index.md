@@ -39,10 +39,10 @@ abstract:
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0165032715002542'
+links:
+- name: "DOI"
+  url: "https://www.sciencedirect.com/science/article/pii/S0165032715002542"
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

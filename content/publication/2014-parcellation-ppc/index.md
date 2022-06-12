@@ -35,10 +35,10 @@ abstract: Regional structural and functional variations in the posteromedial cor
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://academic.oup.com/cercor/article/24/3/719/394888
+links:
+- name: "DOI"
+  url: "https://academic.oup.com/cercor/article/24/3/719/394888"
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

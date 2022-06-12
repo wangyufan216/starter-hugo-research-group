@@ -41,10 +41,10 @@ abstract: Efficient optical clearance is fundamental for whole brain imaging. In
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: 'https://www.frontiersin.org/articles/10.3389/fnana.2015.00019/full'
+links:
+- name: "DOI"
+  url: "https://www.frontiersin.org/articles/10.3389/fnana.2015.00019/full"
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

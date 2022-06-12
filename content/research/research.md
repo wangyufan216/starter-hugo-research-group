@@ -24,7 +24,7 @@ design:
   columns: '1'
 
   background:
-    color: '000000'
+    color: 'ffffff'
 
   # Toggle between the various page layout types.
   #   1 = List

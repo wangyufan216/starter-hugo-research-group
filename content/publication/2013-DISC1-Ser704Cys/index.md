@@ -38,10 +38,10 @@ abstract: The Disrupted-in-Schizophrenia 1 (DISC1) gene has been thought as a pu
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://link.springer.com/article/10.1007/s00429-013-0640-5
+links:
+- name: "DOI"
+  url: "https://link.springer.com/article/10.1007/s00429-013-0640-5"
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

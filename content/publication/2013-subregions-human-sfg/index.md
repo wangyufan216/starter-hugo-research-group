@@ -35,10 +35,10 @@ abstract: The superior frontal gyrus (SFG) is located at the superior part of th
 #   - Source Themes
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S1053811913003388
+links:
+- name: "DOI"
+  url: "https://www.sciencedirect.com/science/article/pii/S1053811913003388"
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''

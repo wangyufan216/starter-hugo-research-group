@@ -37,10 +37,10 @@ abstract: The superior parietal lobule (SPL) plays a pivotal role in many cognit
 #   - Source Themes
 featured: false
 
-# links:
-# - name: "full-text link"
-#   url: ""
-url_pdf: 'https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.22626'
+links:
+- name: "DOI"
+  url: "https://onlinelibrary.wiley.com/doi/epdf/10.1002/hbm.22626"
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
