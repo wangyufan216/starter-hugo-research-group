@@ -31,7 +31,7 @@ education:
     - course: Master in Pattern Recognition and Intelligent System
       institution: Institute of Automation, Chinese Academy of Science
       year: 2019-
-    - course: BSc in xxx
+    - course: BSc in 
       institution: Beijing University of Posts and Telecommunications
       year: 2015-2019
 
