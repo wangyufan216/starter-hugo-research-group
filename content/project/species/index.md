@@ -23,3 +23,8 @@ Thirdly, it needs to combine invasive neuroscience techniques and using non-huma
 ### See related publications
 
 {{< cite page="/publication/2021-Connectional-Asymmetry-of" view="3" >}}
+
+{{< cite page="/publication/2020-MonkeyCBP" view="3" >}}
+
+{{< cite page="/publication/2020-Fine-Grained-Topography" view="3" >}}
+
