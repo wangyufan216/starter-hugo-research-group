@@ -29,9 +29,9 @@ interests:
   
 education:
   courses:
-    - course: xxx
-      institution: Institute of Automation, Chinese Academy of Science
-      year: 2020-
+    - course: Master in Neuroscience and Neuroimaging
+      institution: Sino-Danish College, University of Chinese Academy of Sciences
+      year: 2019-
     - course: BSc in xxx
       institution: xxx
       year: 2016-2020
