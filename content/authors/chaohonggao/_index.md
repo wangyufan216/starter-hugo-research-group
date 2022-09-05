@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Degree Candidate
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -23,17 +23,17 @@ organizations:
 bio: xxx
 
 interests:
-  - 
-  - 
-  -
+  - Individualized brain atlas
+  - Neuromodulation
+  - diffusion MRI
   
 education:
   courses:
-    - course: Master in Neuroscience and Neuroimaging
+    - course: PhD in Neuroscience and Neuroimaging
       institution: Sino-Danish College, University of Chinese Academy of Sciences
-      year: 2019-
-    - course: BSc in xxx
-      institution: xxx
+      year: 2020-
+    - course: BSc in Internet of Things Engineering
+      institution: Jiangnan University
       year: 2016-2020
 
 # Social/Academic Networking
