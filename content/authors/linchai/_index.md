@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Degree Candidate
+role:
 
 # Organizations/Affiliations
 organizations:
