@@ -69,3 +69,5 @@ email: ''
 user_groups:
   - Graduate Students
 ---
+
+My research interests include exploring the mechanism of advanced cognitive process especially language comprehension in human brain.
