@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Master Degree Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -29,8 +29,8 @@ interests:
 
 education:
   courses:
-    - course: PhD in Pattern Recognition and Intelligent System
-      institution: Institute of Automation, Chinese Academy of Science
+    - course: Master in Neuroscience and Neuroimaging
+      institution: Sino-Danish College, University of Chinese Academy of Sciences
       year: 2023-
     - course: BSc in xxx
       institution: xxx
