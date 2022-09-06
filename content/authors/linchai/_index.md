@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role:
+role: Microsoft
 
 # Organizations/Affiliations
 organizations:

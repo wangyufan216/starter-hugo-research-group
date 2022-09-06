@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role:
+role: Xiaomi
 
 # Organizations/Affiliations
 organizations:
