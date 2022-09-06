@@ -20,21 +20,24 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - xxx
+  - xxx
+  - xxx
 
 education:
   courses:
-    - course: PhD in Pattern Recognition and Intelligent System
+    - course: Visiting student
       institution: Institute of Automation, Chinese Academy of Science
-      year: 2020-
-    - course: BSc in Internet of Things Engineering
-      institution: Jiangnan University
-      year: 2016-2020
+      year: 2022.7-
+    - course: Master in Computer Science
+      institution: School of Computer Science, Tianjin University
+      year: 2021-
+    - course: BSc in Software Engineering
+      institution: Hainan University
+      year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,16 +46,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:gaochaohong98@outlook.com'
+    link: 'mailto:lingfei@tju.edu.cn'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: 
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 
   - icon: github
     icon_pack: fab
-    link: https://github.com/wangyufan216
+    link: 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
