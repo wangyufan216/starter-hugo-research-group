@@ -23,16 +23,15 @@ organizations:
 bio: 
 
 interests:
-  - xxx
-  - xxx
-  - xxx
+  - Artificial Intelligence
+  - Explanotory algorithms
 
 education:
   courses:
     - course: Visiting student
       institution: Institute of Automation, Chinese Academy of Science
       year: 2022.7-
-    - course: Master in Computer Science
+    - course: Master in Electronic Information Engineering
       institution: School of Computer Science, Tianjin University
       year: 2021-
     - course: BSc in Software Engineering
@@ -55,7 +54,7 @@ social:
     link: 
   - icon: github
     icon_pack: fab
-    link: 
+    link: https://github.com/HeLingfei
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
