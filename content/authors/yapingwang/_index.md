@@ -68,4 +68,4 @@ user_groups:
   - Graduate Students
 ---
 
-I am a third-year PhD student at BrainnetomeCenter, CASIA, supervised by Lingzhong Fan. My research interest includes application of imaging-genetics to explore the biological basis of brain structure and function, while also focusing on the increasingly updated higher functions and neuropychiatric disorders associated with the human cerebellum.
+I am a fourth-year PhD student at BrainnetomeCenter, CASIA, supervised by Lingzhong Fan. My research interest includes application of imaging-genetics to explore the biological basis of brain structure and function, while also focusing on the increasingly updated higher functions and neuropychiatric disorders associated with the human cerebellum.

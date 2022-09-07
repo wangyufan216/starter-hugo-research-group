@@ -68,4 +68,4 @@ user_groups:
   - Graduate Students
 ---
 
-I am a second-year doctoral student at Brainnetome Center, CASIA, supervised by Lingzhong Fan. My research interest include exploring brain structure and function of human and clarifying the similarities and diffferences between them and non-human primates.
+I am a third-year doctoral student at Brainnetome Center, CASIA, supervised by Lingzhong Fan. My research interest include exploring brain structure and function of human and clarifying the similarities and diffferences between them and non-human primates.
