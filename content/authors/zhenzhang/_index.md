@@ -16,7 +16,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-  - name: Institute of Automation, Chinese Academy of Science
+  - name: 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

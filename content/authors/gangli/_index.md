@@ -12,11 +12,11 @@ authors:
 superuser: false
 
 # Role/position
-role: vivo Mobile
+role: 
 
 # Organizations/Affiliations
 organizations:
-  - name: Institute of Automation, Chinese Academy of Science
+  - name: vivo Mobile
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

@@ -12,11 +12,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Microsoft
+role: 
 
 # Organizations/Affiliations
 organizations:
-  - name: Institute of Automation, Chinese Academy of Science
+  - name: Microsoft
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
