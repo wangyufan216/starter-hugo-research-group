@@ -30,10 +30,7 @@ education:
   courses:
     - course: Visiting student
       institution: Institute of Automation, Chinese Academy of Science
-      year: 2022- 
-    - course: PhD in Computer science
-      institution: Tianjin University
-      year: 2022- 
+      year: 2022-
     - course: Ma. Eng in Software Engineering
       institution: Northwestern University
       year: 2018-2021
