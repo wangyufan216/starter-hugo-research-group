@@ -31,7 +31,7 @@ education:
   courses:
     - course: Visiting student
       institution: Institute of Automation, Chinese Academy of Science
-      year: 2020.7-2021.6
+      year: 2020-2021
     - course: Master in Computer Technology
       institution: Tianjin University
       year: 2019-2022
@@ -71,4 +71,4 @@ user_groups:
   - Alumni
 ---
 
-I graduated from Tianjin University with a master's degree in 2022.  From 2020 to 2021, I studied in the Brainnetome Center， CASIA，supervised by Lingzhong Fan.  My research interests include deep learning, interpretability, and brain age prediction.  Currently，I am working in Xiaomi Technology Co., LTD., as a software development engineer.
+I graduated from Tianjin University with a master's degree in 2022. From 2020 to 2021, I studied in the Brainnetome Center, CASIA, supervised by Lingzhong Fan. My research interests include deep learning, interpretability, and brain age prediction. Currently, I am working in Xiaomi Technology Co., LTD., as a software development engineer.
