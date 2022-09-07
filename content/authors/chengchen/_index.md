@@ -31,7 +31,7 @@ education:
   courses:
     - course: Visiting student
       institution: Institute of Automation, Chinese Academy of Science
-      year: 2020-2021
+      year: 2020.7-2021.6
     - course: Master in Computer Technology
       institution: Tianjin University
       year: 2019-2022
