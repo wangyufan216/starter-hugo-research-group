@@ -23,17 +23,20 @@ organizations:
 bio: xxx
 
 interests:
-  - xxx
-  - xxx
-  - xxx
+  - travel
+  - reading
+  - basketball
 
 education:
   courses:
-    - course: xxx
+    - course: Visiting student
       institution: Institute of Automation, Chinese Academy of Science
-      year: 2019-
-    - course: BSc in xxx
-      institution: xxx
+      year: 2020-2021
+    - course: Master in Computer Technology
+      institution: Tianjin University
+      year: 2019-2022
+    - course: BSc in Computer Science
+      institution: Henan University
       year: 2015-2019
 
 # Social/Academic Networking
@@ -43,7 +46,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 
+    link: 'mailto:chencheng23@xiaomi.com'
   - icon: twitter
     icon_pack: fab
     link: 
