@@ -32,7 +32,7 @@ education:
       institution: Institute of Automation, Chinese Academy of Science
       year: 2022.7-
     - course: Master in Electronic Information Engineering
-      institution: School of Computer Science, Tianjin University
+      institution: Tianjin University
       year: 2021-
     - course: BSc in Software Engineering
       institution: Hainan University
