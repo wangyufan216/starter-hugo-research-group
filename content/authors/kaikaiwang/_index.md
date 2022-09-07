@@ -12,7 +12,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate
+role: Visiting Student
 
 # Organizations/Affiliations
 organizations:
