@@ -31,7 +31,7 @@ education:
     - course: Master in Pattern Recognition and Intelligent System
       institution: Institute of Automation, Chinese Academy of Science
       year: 2019-
-    - course: BSc in 
+    - course: BSc in Communication Engineering
       institution: Beijing University of Posts and Telecommunications
       year: 2015-2019
 
@@ -66,3 +66,5 @@ email: ''
 user_groups:
   - Alumni
 ---
+
+Hi, I’m Lin Chai. I received my bachelor’s degree from Beijing University of Posts and Telecommunications (BUPT) and master’s degree from Institute of Automation, Chinese Academy of Sciences. During studying in Brainnetome Center, I followed Professor Lingzhong Fan on machine learning & deep learning application in psychiatry of cerebellum. We aimed to deep dive about cerebellar morphology change & clinical domain knowledges. It was my honor to join Fan lab and did meaningful studies with these interesting guys. Always love our innovative and passionate team!

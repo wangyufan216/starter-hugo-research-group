@@ -6,8 +6,10 @@ authors:
   - admin
   - Hai Li
   - Wen Zhang
-  - Qingmao
+  - Qingmao Hu
   - Tianzi Jiang
+author_notes:
+  - 'Equal contribution'
   - 'Equal contribution'
 date: '2015-12-22T00:00:00Z'
 doi: ''
