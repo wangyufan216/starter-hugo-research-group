@@ -7,7 +7,7 @@ authors:
   - admin
   - Jiaojian Wang
   - Tianzi Jiang
-  - Chunshui Yu1
+  - Chunshui Yu
 date: '2013-03-06T00:00:00Z'
 doi: ''
 
