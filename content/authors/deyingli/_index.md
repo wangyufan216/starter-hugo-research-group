@@ -25,7 +25,6 @@ bio:
 interests:
   - Yumao Ball
   - Cartoon
-  - Swimming
 
 education:
   courses:
