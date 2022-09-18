@@ -23,18 +23,16 @@ organizations:
 bio: xxx
 
 interests:
-  - xxx
-  - xxx
-  - xxx
+  - Artificial Intelligence
+  - football
+  - pool
+  - travel
 
 education:
   courses:
-    - course: PhD in Pattern Recognition and Intelligent System
-      institution: Institute of Automation, Chinese Academy of Science
-      year: 2023-
-    - course: BSc in xxx
-      institution: xxx
-      year: 2019-2023
+    - course: BSc in Software Engineering
+      institution: Xi'an Jiaotong University
+      year: 2019-
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -67,3 +65,5 @@ email: ''
 user_groups:
   - Graduate Students
 ---
+
+I am an incoming PhD student in Brainnetome Center, CASIA, supervised by LingZhong Fan. My primary research interest focuses on the brain's development of logical reasoning and reinforcement learning.
