@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-    - course: xxx
+    - course: Master in Pattern Recognition and Intelligent System
       institution: Institute of Automation, Chinese Academy of Science
       year: 2018-2021
     - course: BSc in Software Engineering
